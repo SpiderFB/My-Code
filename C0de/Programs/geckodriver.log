@@ -1,0 +1,1325 @@
+1614749455942	geckodriver	INFO	Listening on 127.0.0.1:55007
+1614749455952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevuffeA"
+
+(firefox-esr:4499): Gtk-WARNING **: 11:00:56.367: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4689): Gtk-WARNING **: 11:01:02.959: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4582): Gtk-WARNING **: 11:01:02.960: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4766): Gtk-WARNING **: 11:01:07.622: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614749468328	Marionette	INFO	Listening on port 35009
+1614749468479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1614749514901	Marionette	INFO	Stopped listening on port 35009
+1614749537324	geckodriver	INFO	Listening on 127.0.0.1:44363
+1614749537333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenvp86F"
+
+(firefox-esr:4860): Gtk-WARNING **: 11:02:17.409: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4995): Gtk-WARNING **: 11:02:18.864: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5012): Gtk-WARNING **: 11:02:18.986: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5075): Gtk-WARNING **: 11:02:21.205: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614749541607	Marionette	INFO	Listening on port 43819
+1614749541648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1614749706060	Marionette	INFO	Stopped listening on port 43819
+1614749926068	geckodriver	INFO	Listening on 127.0.0.1:59603
+1614749926078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO9cktY"
+
+(firefox-esr:5229): Gtk-WARNING **: 11:08:46.941: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5376): Gtk-WARNING **: 11:08:48.788: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5394): Gtk-WARNING **: 11:08:48.907: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614749931580	Marionette	INFO	Listening on port 45089
+1614749931594	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:5454): Gtk-WARNING **: 11:08:52.417: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://resident.uidai.gov.in"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614750328216	Marionette	INFO	Stopped listening on port 45089
+1614750343358	geckodriver	INFO	Listening on 127.0.0.1:47663
+1614750344291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesxrbdo"
+
+(firefox-esr:5805): Gtk-WARNING **: 11:15:44.714: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5892): Gtk-WARNING **: 11:15:52.403: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6037): Gtk-WARNING **: 11:15:53.115: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6091): Gtk-WARNING **: 11:15:56.939: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614750357723	Marionette	INFO	Listening on port 33995
+1614750358218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614750541895	geckodriver	INFO	Listening on 127.0.0.1:55029
+1614750541909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1D4gZ0"
+
+(firefox-esr:6191): Gtk-WARNING **: 11:19:01.945: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6344): Gtk-WARNING **: 11:19:05.011: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6349): Gtk-WARNING **: 11:19:05.011: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614750548432	Marionette	INFO	Listening on port 42673
+1614750548527	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:6425): Gtk-WARNING **: 11:19:09.877: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1614750559010	Marionette	INFO	Stopped listening on port 33995
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1614751131772	Marionette	INFO	Stopped listening on port 42673
+1614751147304	geckodriver	INFO	Listening on 127.0.0.1:42407
+1614751147314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFhV41H"
+
+(firefox-esr:6673): Gtk-WARNING **: 11:29:08.199: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6820): Gtk-WARNING **: 11:29:10.617: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6837): Gtk-WARNING **: 11:29:10.739: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6898): Gtk-WARNING **: 11:29:13.421: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614751153714	Marionette	INFO	Listening on port 37515
+1614751153741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+(/usr/lib/firefox-esr/firefox-esr:6987): Gtk-WARNING **: 11:31:46.976: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript warning: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021022501.js, line 6: Script terminated by timeout at:
+g/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021022501.js:6:77184
+Sd@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021022501.js:6:22021
+Ud/this.next@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021022501.js:6:22313
+yb/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021022501.js:6:35817
+yb@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021022501.js:6:35585
+uk@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021022501.js:6:76942
+Nw.prototype.j/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021022501.js:14:24511
+J/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021022501.js:6:75657
+
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614752783732	Marionette	INFO	Stopped listening on port 37515
+1614752815474	geckodriver	INFO	Listening on 127.0.0.1:36189
+1614752816411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewvVhO4"
+
+(firefox-esr:7796): Gtk-WARNING **: 11:56:57.826: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:7877): Gtk-WARNING **: 11:57:06.228: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:8007): Gtk-WARNING **: 11:57:06.818: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:8064): Gtk-WARNING **: 11:57:11.664: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614752832453	Marionette	INFO	Listening on port 35255
+1614752832465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+(/usr/lib/firefox-esr/firefox-esr:8152): Gtk-WARNING **: 11:59:07.135: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614753182205	Marionette	INFO	Stopped listening on port 35255
+1614753325257	geckodriver	INFO	Listening on 127.0.0.1:38571
+1614753326194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5EdHil"
+
+(firefox-esr:8363): Gtk-WARNING **: 12:05:26.568: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:8513): Gtk-WARNING **: 12:05:29.920: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:8537): Gtk-WARNING **: 12:05:30.073: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:8590): Gtk-WARNING **: 12:05:33.266: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614753333648	Marionette	INFO	Listening on port 42047
+1614753333740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(/usr/lib/firefox-esr/firefox-esr:8645): Gtk-WARNING **: 12:06:16.326: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(/usr/lib/firefox-esr/firefox-esr:8692): Gtk-WARNING **: 12:07:05.157: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614753446094	Marionette	INFO	Stopped listening on port 42047
+1614757253019	geckodriver	INFO	Listening on 127.0.0.1:56183
+1614757253976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHM92Z4"
+
+(firefox-esr:2619): Gtk-WARNING **: 13:10:54.012: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2796): Gtk-WARNING **: 13:10:56.564: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2820): Gtk-WARNING **: 13:10:56.709: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2875): Gtk-WARNING **: 13:10:59.460: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614757260135	Marionette	INFO	Listening on port 38185
+1614757260204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1614757345258	Marionette	INFO	Stopped listening on port 38185
+1614757349943	geckodriver	INFO	Listening on 127.0.0.1:35563
+1614757349953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqgIPOX"
+
+(firefox-esr:2980): Gtk-WARNING **: 13:12:30.261: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3127): Gtk-WARNING **: 13:12:32.021: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3144): Gtk-WARNING **: 13:12:32.149: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3205): Gtk-WARNING **: 13:12:34.727: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614757355099	Marionette	INFO	Listening on port 39709
+1614757355169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614757405404	geckodriver	INFO	Listening on 127.0.0.1:33215
+1614757405412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFtCXFZ"
+
+(firefox-esr:3291): Gtk-WARNING **: 13:13:25.550: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3440): Gtk-WARNING **: 13:13:27.210: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3457): Gtk-WARNING **: 13:13:27.334: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3523): Gtk-WARNING **: 13:13:30.244: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614757410392	Marionette	INFO	Listening on port 44017
+1614757410426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1614757813552	Marionette	INFO	Stopped listening on port 44017
+1614758981341	geckodriver	INFO	Listening on 127.0.0.1:42599
+1614758982124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem4o5M6"
+
+(firefox-esr:4933): Gtk-WARNING **: 13:39:47.227: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5069): Gtk-WARNING **: 13:40:06.145: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5183): Gtk-WARNING **: 13:40:08.850: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614759015543	Marionette	INFO	Listening on port 33073
+1614759015799	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:5239): Gtk-WARNING **: 13:40:16.487: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614759212697	geckodriver	INFO	Listening on 127.0.0.1:41831
+1614759212718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR5iMaG"
+
+(firefox-esr:5382): Gtk-WARNING **: 13:43:33.442: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5474): Gtk-WARNING **: 13:43:40.698: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5596): Gtk-WARNING **: 13:43:41.394: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614759227074	Marionette	INFO	Listening on port 45243
+1614759227692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(/usr/lib/firefox-esr/firefox-esr:5651): Gtk-WARNING **: 13:43:52.652: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1614759449943	Marionette	INFO	Stopped listening on port 45243
+1614761738392	geckodriver	INFO	Listening on 127.0.0.1:48957
+1614761739346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo6poM5"
+
+(firefox-esr:2815): Gtk-WARNING **: 14:25:39.691: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2990): Gtk-WARNING **: 14:25:44.106: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3014): Gtk-WARNING **: 14:25:44.312: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3070): Gtk-WARNING **: 14:25:49.106: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614761749934	Marionette	INFO	Listening on port 38729
+1614761750200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1614761806985	Marionette	INFO	Stopped listening on port 38729
+1614761936518	geckodriver	INFO	Listening on 127.0.0.1:56697
+1614761936528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZf9UEy"
+
+(firefox-esr:3220): Gtk-WARNING **: 14:28:56.638: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3368): Gtk-WARNING **: 14:28:58.469: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3385): Gtk-WARNING **: 14:28:58.591: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3448): Gtk-WARNING **: 14:29:01.342: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614761941640	Marionette	INFO	Listening on port 45993
+1614761941743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1614762033181	Marionette	INFO	Stopped listening on port 45993
+1614835587437	geckodriver	INFO	Listening on 127.0.0.1:48235
+1614835587445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7zR2ib"
+
+(firefox-esr:3641): Gtk-WARNING **: 10:56:27.554: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3849): Gtk-WARNING **: 10:56:30.925: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3873): Gtk-WARNING **: 10:56:31.092: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3932): Gtk-WARNING **: 10:56:36.308: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614835596409	Marionette	INFO	Listening on port 44229
+1614835596434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614835636511	geckodriver	INFO	Listening on 127.0.0.1:35417
+1614835636518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKvm94x"
+
+(firefox-esr:3983): Gtk-WARNING **: 10:57:16.653: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4147): Gtk-WARNING **: 10:57:18.398: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4164): Gtk-WARNING **: 10:57:18.740: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4227): Gtk-WARNING **: 10:57:22.670: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614835643013	Marionette	INFO	Listening on port 36789
+1614835643054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(/usr/lib/firefox-esr/firefox-esr:5117): Gtk-WARNING **: 11:05:18.603: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5146): Gtk-WARNING **: 11:05:21.006: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614836299242	geckodriver	INFO	Listening on 127.0.0.1:35853
+1614836300193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexmg5vY"
+
+(firefox-esr:5318): Gtk-WARNING **: 11:08:20.346: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5375): Gtk-WARNING **: 11:08:26.594: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5432): Gtk-WARNING **: 11:08:27.015: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614836312334	Marionette	INFO	Listening on port 44245
+1614836312761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(/usr/lib/firefox-esr/firefox-esr:5501): Gtk-WARNING **: 11:08:37.574: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614836457606	geckodriver	INFO	Listening on 127.0.0.1:59325
+1614836457638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOCE7wz"
+
+(firefox-esr:5722): Gtk-WARNING **: 11:10:57.890: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5824): Gtk-WARNING **: 11:11:00.403: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5838): Gtk-WARNING **: 11:11:00.618: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5904): Gtk-WARNING **: 11:11:03.829: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614836464379	Marionette	INFO	Listening on port 35431
+1614836464514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614836524496	geckodriver	INFO	Listening on 127.0.0.1:36101
+1614836524509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileChunVW"
+
+(firefox-esr:5987): Gtk-WARNING **: 11:12:04.595: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6112): Gtk-WARNING **: 11:12:07.050: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6129): Gtk-WARNING **: 11:12:07.326: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6190): Gtk-WARNING **: 11:12:10.397: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614836531144	Marionette	INFO	Listening on port 43815
+1614836531246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614836535085	geckodriver	INFO	Listening on 127.0.0.1:50993
+1614836535101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePqxvXm"
+
+(firefox-esr:6230): Gtk-WARNING **: 11:12:15.145: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6366): Gtk-WARNING **: 11:12:18.964: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6388): Gtk-WARNING **: 11:12:19.595: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6466): Gtk-WARNING **: 11:12:23.218: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614836543644	Marionette	INFO	Listening on port 37105
+1614836543805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614836560678	geckodriver	INFO	Listening on 127.0.0.1:33559
+1614836560700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAgFIH9"
+
+(firefox-esr:6521): Gtk-WARNING **: 11:12:40.850: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6576): Gtk-WARNING **: 11:12:46.137: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6689): Gtk-WARNING **: 11:12:47.251: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837171621	geckodriver	INFO	Listening on 127.0.0.1:34993
+1614837172593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepwISAU"
+
+(firefox-esr:2209): Gtk-WARNING **: 11:22:52.642: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2403): Gtk-WARNING **: 11:22:54.852: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2427): Gtk-WARNING **: 11:22:55.023: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2481): Gtk-WARNING **: 11:22:57.719: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837178297	Marionette	INFO	Listening on port 41849
+1614837178333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614837189600	geckodriver	INFO	Listening on 127.0.0.1:41499
+1614837189608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehoafFo"
+
+(firefox-esr:2522): Gtk-WARNING **: 11:23:09.644: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2658): Gtk-WARNING **: 11:23:11.142: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2675): Gtk-WARNING **: 11:23:11.265: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2739): Gtk-WARNING **: 11:23:13.801: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837193964	Marionette	INFO	Listening on port 45485
+1614837194038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614837197269	geckodriver	INFO	Listening on 127.0.0.1:39211
+1614837197277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepom9NZ"
+
+(firefox-esr:2780): Gtk-WARNING **: 11:23:17.317: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2920): Gtk-WARNING **: 11:23:19.484: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2937): Gtk-WARNING **: 11:23:19.624: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3008): Gtk-WARNING **: 11:23:23.329: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837203649	Marionette	INFO	Listening on port 34241
+1614837203699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614837205152	Marionette	INFO	Stopped listening on port 41849
+1614837205978	geckodriver	INFO	Listening on 127.0.0.1:43147
+1614837205989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegBzDjN"
+
+(firefox-esr:3051): Gtk-WARNING **: 11:23:26.025: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3216): Gtk-WARNING **: 11:23:28.322: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3233): Gtk-WARNING **: 11:23:28.506: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837211448	Marionette	INFO	Stopped listening on port 45485
+
+(/usr/lib/firefox-esr/firefox-esr:3300): Gtk-WARNING **: 11:23:32.349: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837262560	geckodriver	INFO	Listening on 127.0.0.1:42767
+1614837262571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIM8XgS"
+
+(firefox-esr:3359): Gtk-WARNING **: 11:24:22.597: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3504): Gtk-WARNING **: 11:24:23.989: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3521): Gtk-WARNING **: 11:24:24.105: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3582): Gtk-WARNING **: 11:24:26.438: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837266762	Marionette	INFO	Listening on port 40675
+1614837266786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614837284614	geckodriver	INFO	Listening on 127.0.0.1:49685
+1614837284621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevpFm97"
+
+(firefox-esr:3629): Gtk-WARNING **: 11:24:44.654: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3783): Gtk-WARNING **: 11:24:46.169: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3803): Gtk-WARNING **: 11:24:46.318: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3861): Gtk-WARNING **: 11:24:48.729: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837289117	Marionette	INFO	Listening on port 44115
+1614837289141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614837291578	geckodriver	INFO	Listening on 127.0.0.1:59471
+1614837291588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaoUdk5"
+
+(firefox-esr:3902): Gtk-WARNING **: 11:24:51.636: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837842690	geckodriver	INFO	Listening on 127.0.0.1:44945
+1614837842699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelz3xMz"
+
+(firefox-esr:4010): Gtk-WARNING **: 11:34:02.727: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4163): Gtk-WARNING **: 11:34:04.082: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4180): Gtk-WARNING **: 11:34:04.194: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4240): Gtk-WARNING **: 11:34:06.754: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837847027	Marionette	INFO	Listening on port 45175
+1614837847119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614837850237	geckodriver	INFO	Listening on 127.0.0.1:54941
+1614837850247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexoL1i5"
+
+(firefox-esr:4279): Gtk-WARNING **: 11:34:10.280: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4440): Gtk-WARNING **: 11:34:11.817: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4457): Gtk-WARNING **: 11:34:11.945: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4517): Gtk-WARNING **: 11:34:14.617: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837855058	Marionette	INFO	Listening on port 45365
+1614837855161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614837869941	geckodriver	INFO	Listening on 127.0.0.1:48953
+1614837869950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3ECOnk"
+
+(firefox-esr:4572): Gtk-WARNING **: 11:34:29.996: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4713): Gtk-WARNING **: 11:34:31.588: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4730): Gtk-WARNING **: 11:34:31.720: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4793): Gtk-WARNING **: 11:34:34.340: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614837874802	Marionette	INFO	Listening on port 41947
+1614837874865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614838369300	geckodriver	INFO	Listening on 127.0.0.1:34415
+1614838369309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledMw5wt"
+
+(firefox-esr:4952): Gtk-WARNING **: 11:42:49.337: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5116): Gtk-WARNING **: 11:42:50.801: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5133): Gtk-WARNING **: 11:42:50.910: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5194): Gtk-WARNING **: 11:42:53.406: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614838373841	Marionette	INFO	Listening on port 33241
+1614838373924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614838376283	geckodriver	INFO	Listening on 127.0.0.1:53683
+1614838377290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEQqyOz"
+
+(firefox-esr:5234): Gtk-WARNING **: 11:42:57.319: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5381): Gtk-WARNING **: 11:42:59.133: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5398): Gtk-WARNING **: 11:42:59.267: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614838415312	geckodriver	INFO	Listening on 127.0.0.1:47743
+1614838415323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletcBkCi"
+
+(firefox-esr:5489): Gtk-WARNING **: 11:43:35.352: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5640): Gtk-WARNING **: 11:43:36.720: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5657): Gtk-WARNING **: 11:43:36.837: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5722): Gtk-WARNING **: 11:43:39.553: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614838419710	Marionette	INFO	Listening on port 38093
+1614838419753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614838424330	Marionette	INFO	Stopped listening on port 38093
+1614838487640	geckodriver	INFO	Listening on 127.0.0.1:49037
+1614838487648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJydkS6"
+
+(firefox-esr:5770): Gtk-WARNING **: 11:44:47.676: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5919): Gtk-WARNING **: 11:44:49.080: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5936): Gtk-WARNING **: 11:44:49.196: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5999): Gtk-WARNING **: 11:44:51.673: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614838491902	Marionette	INFO	Listening on port 42071
+1614838491963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614838494160	Marionette	INFO	Stopped listening on port 42071
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1614838562975	geckodriver	INFO	Listening on 127.0.0.1:38471
+1614838562982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecPItEy"
+
+(firefox-esr:6087): Gtk-WARNING **: 11:46:03.011: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6246): Gtk-WARNING **: 11:46:04.463: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6263): Gtk-WARNING **: 11:46:04.598: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6323): Gtk-WARNING **: 11:46:06.858: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614838567121	Marionette	INFO	Listening on port 37597
+1614838567204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+(/usr/lib/firefox-esr/firefox-esr:6453): Gtk-WARNING **: 11:50:04.416: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+(/usr/lib/firefox-esr/firefox-esr:6672): Gtk-WARNING **: 12:15:01.747: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: , line 0: NotAllowedError: User denied permission to use the Push API.
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101, line 6: Script terminated by timeout at:
+Lg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:54905
+Jg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:54382
+Ig@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:53941
+Og.prototype.g@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:55185
+Bg/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:49661
+y@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:3275
+Bg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:49634
+Cg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:50048
+k.Xa@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:50885
+dg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:44114
+uh@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:60592
+rh.prototype.Hb@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:60320
+ef/a.g<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:34331
+pe/</<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:28255
+me/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:27989
+Xd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25241
+me@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:28102
+pe/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:28228
+Xd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25241
+Xd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25285
+
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 562: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 562: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 562: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 562: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 562: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 562: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 562: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 562: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+(/usr/lib/firefox-esr/firefox-esr:7259): Gtk-WARNING **: 12:31:50.206: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:7288): Gtk-WARNING **: 12:31:51.619: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614845123980	geckodriver	INFO	Listening on 127.0.0.1:57119
+1614845124952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0zIjSV"
+
+(firefox-esr:2159): Gtk-WARNING **: 13:35:25.004: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2340): Gtk-WARNING **: 13:35:27.117: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2364): Gtk-WARNING **: 13:35:27.280: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2418): Gtk-WARNING **: 13:35:29.850: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614845130566	Marionette	INFO	Listening on port 36461
+1614845130660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614845305409	geckodriver	INFO	Listening on 127.0.0.1:60611
+1614845305419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledBef15"
+
+(firefox-esr:2555): Gtk-WARNING **: 13:38:25.447: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2719): Gtk-WARNING **: 13:38:26.853: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2736): Gtk-WARNING **: 13:38:26.974: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2798): Gtk-WARNING **: 13:38:29.481: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614845309805	Marionette	INFO	Listening on port 34001
+1614845309836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614845354043	geckodriver	INFO	Listening on 127.0.0.1:46589
+1614845354051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6ZHEwZ"
+
+(firefox-esr:2929): Gtk-WARNING **: 13:39:14.079: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3093): Gtk-WARNING **: 13:39:15.470: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3110): Gtk-WARNING **: 13:39:15.603: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3170): Gtk-WARNING **: 13:39:18.089: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614845358378	Marionette	INFO	Listening on port 40157
+1614845358466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614853981468	geckodriver	INFO	Listening on 127.0.0.1:40857
+1614853982418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH65ecz"
+
+(firefox-esr:9462): Gtk-WARNING **: 16:03:02.466: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:9532): Gtk-WARNING **: 16:03:07.251: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:9662): Gtk-WARNING **: 16:03:07.801: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:9720): Gtk-WARNING **: 16:03:12.072: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614853992567	Marionette	INFO	Listening on port 43607
+1614853992947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://resident.uidai.gov.in"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614854575085	geckodriver	INFO	Listening on 127.0.0.1:44149
+1614854575097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev0wJzr"
+
+(firefox-esr:10027): Gtk-WARNING **: 16:12:55.996: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:10170): Gtk-WARNING **: 16:12:58.372: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:10184): Gtk-WARNING **: 16:12:58.501: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:10250): Gtk-WARNING **: 16:13:01.547: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614854581918	Marionette	INFO	Listening on port 36063
+1614854582021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614854694386	geckodriver	INFO	Listening on 127.0.0.1:43249
+1614854694397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWhqfCf"
+
+(firefox-esr:10375): Gtk-WARNING **: 16:14:54.437: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:10520): Gtk-WARNING **: 16:14:56.187: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:10537): Gtk-WARNING **: 16:14:56.346: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:10602): Gtk-WARNING **: 16:14:59.044: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614854699468	Marionette	INFO	Listening on port 45407
+1614854699511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614855333454	geckodriver	INFO	Listening on 127.0.0.1:48791
+1614855333464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile34KvXc"
+
+(firefox-esr:10855): Gtk-WARNING **: 16:25:33.500: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11003): Gtk-WARNING **: 16:25:35.146: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11020): Gtk-WARNING **: 16:25:35.293: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11084): Gtk-WARNING **: 16:25:37.716: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614855338073	Marionette	INFO	Listening on port 37689
+1614855338082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://resident.uidai.gov.in"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614855744466	geckodriver	INFO	Listening on 127.0.0.1:57173
+1614855744482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY4c4Fd"
+
+(firefox-esr:11353): Gtk-WARNING **: 16:32:24.527: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11495): Gtk-WARNING **: 16:32:26.186: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11512): Gtk-WARNING **: 16:32:26.336: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11571): Gtk-WARNING **: 16:32:29.092: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614855749471	Marionette	INFO	Listening on port 39239
+1614855749518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614855908656	geckodriver	INFO	Listening on 127.0.0.1:60269
+1614855908674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWNLTOi"
+
+(firefox-esr:11725): Gtk-WARNING **: 16:35:09.081: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11854): Gtk-WARNING **: 16:35:10.806: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11871): Gtk-WARNING **: 16:35:10.959: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:11932): Gtk-WARNING **: 16:35:13.557: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614855913954	Marionette	INFO	Listening on port 46519
+1614855913997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614856040110	geckodriver	INFO	Listening on 127.0.0.1:44609
+1614856040122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4tIBlc"
+
+(firefox-esr:12127): Gtk-WARNING **: 16:37:20.165: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:12269): Gtk-WARNING **: 16:37:22.101: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:12286): Gtk-WARNING **: 16:37:22.274: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:12348): Gtk-WARNING **: 16:37:24.939: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614856045393	Marionette	INFO	Listening on port 39443
+1614856045455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614856091959	geckodriver	INFO	Listening on 127.0.0.1:46707
+1614856091975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezCxPBQ"
+
+(firefox-esr:12432): Gtk-WARNING **: 16:38:12.070: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:12483): Gtk-WARNING **: 16:38:14.032: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:12600): Gtk-WARNING **: 16:38:14.342: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:12655): Gtk-WARNING **: 16:38:17.051: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614856097466	Marionette	INFO	Listening on port 46235
+1614856097578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614856101346	Marionette	INFO	Stopped listening on port 46235
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1614856475110	geckodriver	INFO	Listening on 127.0.0.1:58409
+1614856476118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7cx74j"
+
+(firefox-esr:12929): Gtk-WARNING **: 16:44:36.220: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13063): Gtk-WARNING **: 16:44:38.124: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13081): Gtk-WARNING **: 16:44:38.300: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614856481428	Marionette	INFO	Listening on port 33779
+1614856481451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(/usr/lib/firefox-esr/firefox-esr:13141): Gtk-WARNING **: 16:44:44.917: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614856496414	Marionette	INFO	Stopped listening on port 33779
+1614856627105	geckodriver	INFO	Listening on 127.0.0.1:56935
+1614856627127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7AXa21"
+
+(firefox-esr:13267): Gtk-WARNING **: 16:47:07.174: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13415): Gtk-WARNING **: 16:47:09.248: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13432): Gtk-WARNING **: 16:47:09.419: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13495): Gtk-WARNING **: 16:47:11.959: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614856632704	Marionette	INFO	Listening on port 36051
+1614856632751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614856661564	Marionette	INFO	Stopped listening on port 36051
+1614856677918	geckodriver	INFO	Listening on 127.0.0.1:43851
+1614856677946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKo12Iq"
+
+(firefox-esr:13588): Gtk-WARNING **: 16:47:57.986: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13710): Gtk-WARNING **: 16:47:59.920: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13727): Gtk-WARNING **: 16:48:00.111: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:13789): Gtk-WARNING **: 16:48:02.766: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614856683217	Marionette	INFO	Listening on port 40343
+1614856683267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614857457784	geckodriver	INFO	Listening on 127.0.0.1:45501
+1614857457794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXZ0XCq"
+
+(firefox-esr:14113): Gtk-WARNING **: 17:00:57.821: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:14280): Gtk-WARNING **: 17:01:03.279: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:14275): Gtk-WARNING **: 17:01:03.279: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614857464929	Marionette	INFO	Listening on port 41513
+1614857465024	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:14362): Gtk-WARNING **: 17:01:06.806: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614857534334	geckodriver	INFO	Listening on 127.0.0.1:41401
+1614857535334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenzMufS"
+
+(firefox-esr:14451): Gtk-WARNING **: 17:02:16.335: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:14625): Gtk-WARNING **: 17:02:20.216: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:14642): Gtk-WARNING **: 17:02:20.329: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:14706): Gtk-WARNING **: 17:02:23.079: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614857543386	Marionette	INFO	Listening on port 36833
+1614857543486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614858312020	geckodriver	INFO	Listening on 127.0.0.1:52417
+1614858312027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXIfboT"
+
+(firefox-esr:15004): Gtk-WARNING **: 17:15:12.222: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:15152): Gtk-WARNING **: 17:15:14.127: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:15169): Gtk-WARNING **: 17:15:14.250: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:15228): Gtk-WARNING **: 17:15:16.684: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614858316996	Marionette	INFO	Listening on port 39587
+1614858317046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1614858474962	geckodriver	INFO	Listening on 127.0.0.1:47101
+1614858474971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOEtP60"
+
+(firefox-esr:15334): Gtk-WARNING **: 17:17:55.059: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:15498): Gtk-WARNING **: 17:17:56.532: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:15515): Gtk-WARNING **: 17:17:56.677: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:15575): Gtk-WARNING **: 17:17:59.203: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1614858479531	Marionette	INFO	Listening on port 46283
+1614858479587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1614858745617	Marionette	INFO	Stopped listening on port 46283
+1617003261333	geckodriver	INFO	Listening on 127.0.0.1:49193
+1617003261344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGtkMyY"
+
+(firefox-esr:4547): Gtk-WARNING **: 13:04:21.579: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4626): Gtk-WARNING **: 13:04:26.342: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4649): Gtk-WARNING **: 13:04:26.661: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4702): Gtk-WARNING **: 13:04:29.677: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1617003270609	Marionette	INFO	Listening on port 44845
+1617003270763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1617003329236	Marionette	INFO	Stopped listening on port 44845
+1617003691159	geckodriver	INFO	Listening on 127.0.0.1:50253
+1617003691169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXJsQq5"
+
+(firefox-esr:5079): Gtk-WARNING **: 13:11:31.369: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5138): Gtk-WARNING **: 13:11:33.056: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:5155): Gtk-WARNING **: 13:11:33.224: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1617003696607	Marionette	INFO	Listening on port 39315
+1617003696688	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:5217): Gtk-WARNING **: 13:11:36.745: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(/usr/lib/firefox-esr/firefox-esr:5560): Gtk-WARNING **: 13:37:53.182: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(/usr/lib/firefox-esr/firefox-esr:6032): Gtk-WARNING **: 14:02:26.927: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1617007433782	Marionette	INFO	Stopped listening on port 39315
+1617007452764	geckodriver	INFO	Listening on 127.0.0.1:58113
+1617007453706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejxYQ5F"
+
+(firefox-esr:6285): Gtk-WARNING **: 14:14:13.837: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6358): Gtk-WARNING **: 14:14:17.768: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6384): Gtk-WARNING **: 14:14:18.079: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:6437): Gtk-WARNING **: 14:14:21.184: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1617007461954	Marionette	INFO	Listening on port 46051
+1617007462063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1619068207764	geckodriver	INFO	Listening on 127.0.0.1:37219
+1619068207774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefJfrlt"
+
+(firefox-esr:2529): Gtk-WARNING **: 10:40:08.669: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2619): Gtk-WARNING **: 10:40:22.871: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2637): Gtk-WARNING **: 10:40:23.480: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2697): Gtk-WARNING **: 10:40:26.881: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1619068227591	Marionette	INFO	Listening on port 33443
+1619068227863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1619068314355	geckodriver	INFO	Listening on 127.0.0.1:49553
+1619068314364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileirphQe"
+
+(firefox-esr:2803): Gtk-WARNING **: 10:41:54.410: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2860): Gtk-WARNING **: 10:41:55.927: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2877): Gtk-WARNING **: 10:41:56.138: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2937): Gtk-WARNING **: 10:41:58.540: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1619068318970	Marionette	INFO	Listening on port 40493
+1619068318984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(/usr/lib/firefox-esr/firefox-esr:3007): Gtk-WARNING **: 10:43:17.364: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+(/usr/lib/firefox-esr/firefox-esr:3157): Gtk-WARNING **: 10:49:35.491: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript warning: https://anti-captcha.com/cdn/landing_framework_en.js?ffc4781615b633843077b7abe51203da, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox-esr/firefox-esr:3210): Gtk-WARNING **: 10:51:00.742: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:8410): Gtk-WARNING **: 12:52:53.072: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+
+(/usr/lib/firefox-esr/firefox-esr:8458): Gtk-WARNING **: 12:53:18.357: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1619076239445	FirefoxAccounts	ERROR	FxA rejecting with error UNVERIFIED_ACCOUNT, details: undefined
+console.info: "Skipping device list refresh; not signed in"
+1619076239477	FirefoxAccounts	ERROR	Background refresh of initial profile failed: Error: UNVERIFIED_ACCOUNT(resource://gre/modules/FxAccounts.jsm:1856:18) JS Stack trace: _error@FxAccounts.jsm:1856:18
+withVerifiedAccountState/<@FxAccounts.jsm:853:20
+1619076239479	FirefoxAccounts	ERROR	FxA rejecting with error UNVERIFIED_ACCOUNT, details: undefined
+1619076239480	FirefoxAccounts	ERROR	Background refresh of initial profile failed: Error: UNVERIFIED_ACCOUNT(resource://gre/modules/FxAccounts.jsm:1856:18) JS Stack trace: _error@FxAccounts.jsm:1856:18
+withVerifiedAccountState/<@FxAccounts.jsm:853:20
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+
+(/usr/lib/firefox-esr/firefox-esr:8507): Gtk-WARNING **: 12:54:07.955: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/LoginHelper.jsm, line 1312: NS_ERROR_FAILURE: This login already exists.
+JavaScript error: resource://gre/modules/LoginHelper.jsm, line 1312: NS_ERROR_FAILURE: This login already exists.
+1619076248266	Sync.SyncScheduler	ERROR	Engine passwords found 2 new records that failed to apply
+1619076265837	Sync.ErrorHandler	ERROR	Some engines did not sync correctly.
+1619704379090	geckodriver	INFO	Listening on 127.0.0.1:50611
+1619704379105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7LK1Hr"
+
+(firefox-esr:2295): Gtk-WARNING **: 19:22:59.808: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2378): Gtk-WARNING **: 19:23:10.890: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2410): Gtk-WARNING **: 19:23:12.018: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:2462): Gtk-WARNING **: 19:23:15.403: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1619704396188	Marionette	INFO	Listening on port 43743
+1619704396496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1619705457565	geckodriver	INFO	Listening on 127.0.0.1:59153
+1619705458489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea5vByS"
+
+(firefox-esr:3485): Gtk-WARNING **: 19:40:58.564: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3557): Gtk-WARNING **: 19:41:01.984: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3581): Gtk-WARNING **: 19:41:02.239: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3635): Gtk-WARNING **: 19:41:05.386: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1619705465998	Marionette	INFO	Listening on port 39885
+1619705466224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(/usr/lib/firefox-esr/firefox-esr:3679): Gtk-WARNING **: 19:41:38.928: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1165:3
+
+1619705523759	geckodriver	INFO	Listening on 127.0.0.1:47675
+1619705523768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8QlpEZ"
+
+(firefox-esr:3766): Gtk-WARNING **: 19:42:03.799: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3823): Gtk-WARNING **: 19:42:05.158: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3840): Gtk-WARNING **: 19:42:05.330: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:3901): Gtk-WARNING **: 19:42:07.687: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1619705528048	Marionette	INFO	Listening on port 46095
+1619705528081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1619705858581	geckodriver	INFO	Listening on 127.0.0.1:47969
+1619705858590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyzJPN7"
+
+(firefox-esr:4033): Gtk-WARNING **: 19:47:38.619: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4088): Gtk-WARNING **: 19:47:40.070: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4105): Gtk-WARNING **: 19:47:40.241: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4164): Gtk-WARNING **: 19:47:42.652: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1619705863134	Marionette	INFO	Listening on port 39541
+1619705863204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1165:3
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(/usr/lib/firefox-esr/firefox-esr:4207): Gtk-WARNING **: 19:48:11.548: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1619705914873	geckodriver	INFO	Listening on 127.0.0.1:49553
+1619705914883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUTgBTU"
+
+(firefox-esr:4290): Gtk-WARNING **: 19:48:34.914: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4345): Gtk-WARNING **: 19:48:36.382: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4362): Gtk-WARNING **: 19:48:36.560: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4421): Gtk-WARNING **: 19:48:39.103: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1619705919521	Marionette	INFO	Listening on port 39589
+1619705919599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1619705957497	Marionette	INFO	Stopped listening on port 39589
+1619706044887	geckodriver	INFO	Listening on 127.0.0.1:44919
+1619706044897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLJJMJ1"
+
+(firefox-esr:4548): Gtk-WARNING **: 19:50:44.924: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4603): Gtk-WARNING **: 19:50:46.361: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4620): Gtk-WARNING **: 19:50:46.566: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4679): Gtk-WARNING **: 19:50:48.966: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1619706049385	Marionette	INFO	Listening on port 36147
+1619706049409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1619706092104	Marionette	INFO	Stopped listening on port 36147
+1619706100561	geckodriver	INFO	Listening on 127.0.0.1:41365
+1619706100571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFxwAJz"
+
+(firefox-esr:4775): Gtk-WARNING **: 19:51:40.599: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4830): Gtk-WARNING **: 19:51:42.051: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4847): Gtk-WARNING **: 19:51:42.236: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox-esr/firefox-esr:4907): Gtk-WARNING **: 19:51:44.671: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1619706105109	Marionette	INFO	Listening on port 39865
+1619706105188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null

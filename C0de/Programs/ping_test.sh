@@ -1,0 +1,1 @@
+ping 8.8.8.8 -c 1 | grep time | head -n 1 | awk -F ' ' '{print $7, $8}'  
